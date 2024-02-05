@@ -19,7 +19,8 @@
     <artifactId>spring-core</artifactId>
     <version>5.2.22.RELEASE</version>
     </dependency><groupId>org.springframework</groupId>
-    <artifactId>spring-context</artifactId>
+    <artifactId>spring-context
+</artifactId>
     <version>5.2.22.RELEASE</version>
   </dependencies>
 </project>
